@@ -1,7 +1,7 @@
-#Project Name
-My Portfolio
+Project Name
+My-Portfolio
 
-#Author Name
+Author Name
 Joyce Nguttu
 
 #Description
