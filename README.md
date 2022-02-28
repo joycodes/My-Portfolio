@@ -1,15 +1,16 @@
-Project Name
+###Project Name
 My-Portfolio
 
-Author Name
+###Author Name
 Joyce Nguttu
 
-Description
+###Description
 This is my porfolio showing some of the projects I have worked on.
 
-Link to live site https://joycodes.github.io/My-Portfolio/
+###Link to live site 
+https://joycodes.github.io/My-Portfolio/
 
-Licence
+###Licence
 The MIT License (MIT)
 
 Copyright (c) 2022 - Joyce Nguttu
