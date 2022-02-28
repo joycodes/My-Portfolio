@@ -4,12 +4,12 @@ My-Portfolio
 Author Name
 Joyce Nguttu
 
-#Description
+Description
 This is my porfolio showing some of the projects I have worked on.
 
 Link to live site
 
-#Licence
+Licence
 The MIT License (MIT)
 
 Copyright (c) 2022 - Joyce Nguttu
